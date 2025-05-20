@@ -50,4 +50,3 @@ The json server will run at http://localhost:5000.
 ## 🎨 Styling
 
 The application leverages Tailwind CSS for utility-first styling, ensuring rapid development and a consistent design system. Lucide icons enhance the visual appeal and user experience.
-🤝 Contributing
