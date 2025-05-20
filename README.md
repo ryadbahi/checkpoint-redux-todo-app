@@ -29,8 +29,8 @@ A sleek and modern ToDo application built with React, Redux Toolkit, and Tailwin
 
     Clone the Repository:
 
-git clone https://github.com/ryadbahi/checkpoint-redux-todo-app.git
-cd checkpoint-redux-todo-app
+    git clone https://github.com/ryadbahi/checkpoint-redux-todo-app.git
+    cd checkpoint-redux-todo-app
 
 Install Dependencies:
 
