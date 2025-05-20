@@ -25,24 +25,24 @@ A sleek and modern ToDo application built with React, Redux Toolkit, and Tailwin
 
     Lucide Icons
 
-📦 Installation
+## 📦 Installation
 
-    Clone the Repository:
+Clone the Repository:
 
     git clone https://github.com/ryadbahi/checkpoint-redux-todo-app.git
     cd checkpoint-redux-todo-app
 
 Install Dependencies:
 
-npm install
+    npm install
 
 Start the Development Server:
 
     npm start
 
-    The application will run at http://localhost:3000.
+The application will run at http://localhost:3000.
 
-🎨 Styling
+## 🎨 Styling
 
 The application leverages Tailwind CSS for utility-first styling, ensuring rapid development and a consistent design system. Lucide icons enhance the visual appeal and user experience.
 🤝 Contributing
