@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Remove the .btn class or use the following styles if you want to keep custom CSS */
+.btn {
+  padding-left: 1rem; /* px-4 */
+  padding-right: 1rem; /* px-4 */
+  padding-top: 0.5rem; /* py-2 */
+  padding-bottom: 0.5rem; /* py-2 */
+  border-radius: 0.25rem; /* rounded */
+  background-color: #d1d5db; /* bg-gray-300 */
+  transition: background-color 0.2s;
+}
+.btn:hover {
+  background-color: #9ca3af; /* hover:bg-gray-400 */
+}
