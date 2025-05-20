@@ -1,21 +1,21 @@
-📝 Checkpoint Redux ToDo App
+# 📝 Checkpoint React Redux ToDo App
 
 A sleek and modern ToDo application built with React, Redux Toolkit, and Tailwind CSS. This project showcases state management with Redux, dynamic styling with Tailwind, and a responsive user interface.
 🚀 Features
 
-    Add Tasks: Quickly add new tasks to your list.
+- Add Tasks: Quickly add new tasks to your list.
 
-    Mark as Done: Toggle tasks between completed and pending states.
+- Mark as Done: Toggle tasks between completed and pending states.
 
-    Delete Tasks: Remove tasks that are no longer needed.
+- Delete Tasks: Remove tasks that are no longer needed.
 
-    Filter Tasks: View all tasks, only completed, or only pending tasks.
+- Filter Tasks: View all tasks, only completed, or only pending tasks.
 
-    Responsive Design: Seamless experience across devices.
+- Responsive Design: Seamless experience across devices.
 
-    Modern UI: Enhanced with Tailwind CSS and Lucide icons for a clean look.
+- Modern UI: Enhanced with Tailwind CSS and Lucide icons for a clean look.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
     React
 
