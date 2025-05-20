@@ -1,12 +1,70 @@
-# React + Vite
+📝 Checkpoint Redux ToDo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern ToDo application built with React, Redux Toolkit, and Tailwind CSS. This project showcases state management with Redux, dynamic styling with Tailwind, and a responsive user interface.
+🚀 Features
 
-Currently, two official plugins are available:
+    Add Tasks: Quickly add new tasks to your list.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Mark as Done: Toggle tasks between completed and pending states.
 
-## Expanding the ESLint configuration
+    Delete Tasks: Remove tasks that are no longer needed.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    Filter Tasks: View all tasks, only completed, or only pending tasks.
+
+    Responsive Design: Seamless experience across devices.
+
+    Modern UI: Enhanced with Tailwind CSS and Lucide icons for a clean look.
+
+🛠️ Technologies Used
+
+    React
+
+    Redux Toolkit
+
+    Tailwind CSS
+
+    Lucide Icons
+
+📦 Installation
+
+    Clone the Repository:
+
+git clone https://github.com/ryadbahi/checkpoint-redux-todo-app.git
+cd checkpoint-redux-todo-app
+
+Install Dependencies:
+
+npm install
+
+Start the Development Server:
+
+    npm start
+
+    The application will run at http://localhost:3000.
+
+📁 Project Structure
+
+checkpoint-redux-todo-app/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── AddTask.jsx
+│ │ ├── ListTask.jsx
+│ │ └── Task.jsx
+│ ├── redux/
+│ │ └── tasksSlice.js
+│ ├── App.jsx
+│ └── index.js
+├── tailwind.config.js
+├── package.json
+└── README.md
+
+🎨 Styling
+
+The application leverages Tailwind CSS for utility-first styling, ensuring rapid development and a consistent design system. Lucide icons enhance the visual appeal and user experience.
+🤝 Contributing
+
+Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request.
+📄 License
+
+This project is licensed under the MIT License.
