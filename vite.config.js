@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   server: {
     watch: {
-      ignored: ["**/db.json"], // <- ignore changes in db.json
+      ignored: ["**/db.json"], // <- ignore changes in db.json, yeah i busted my head on that one
     },
   },
 });
