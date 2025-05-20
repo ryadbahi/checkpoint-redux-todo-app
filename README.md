@@ -42,29 +42,7 @@ Start the Development Server:
 
     The application will run at http://localhost:3000.
 
-📁 Project Structure
-
-checkpoint-redux-todo-app/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── AddTask.jsx
-│ │ ├── ListTask.jsx
-│ │ └── Task.jsx
-│ ├── redux/
-│ │ └── tasksSlice.js
-│ ├── App.jsx
-│ └── index.js
-├── tailwind.config.js
-├── package.json
-└── README.md
-
 🎨 Styling
 
 The application leverages Tailwind CSS for utility-first styling, ensuring rapid development and a consistent design system. Lucide icons enhance the visual appeal and user experience.
 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request.
-📄 License
-
-This project is licensed under the MIT License.
